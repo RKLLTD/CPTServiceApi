@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Archiver-Version: Plexus Archiver
-Created-By: Apache Maven
-Built-By: fmason
-Build-Jdk: 1.8.0_101
-Main-Class: com.leverage.cptapi.App
-Class-Path: log4j-1.2.17.jar
-
